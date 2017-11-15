@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/datacarpentry/workshop-template"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_repo   : "http://github.com/oxpeter/2017-11-15-WCM"
+workshop_site   : "http://oxpeter.github.io/2017-11-15-WCM"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
